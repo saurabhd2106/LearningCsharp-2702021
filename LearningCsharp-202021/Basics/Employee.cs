@@ -12,7 +12,7 @@ namespace LearningCsharp_202021.Basics
 
         public Employee()
         {
-            salary = 600000;
+            salary = 700000;
             bonus = 30000;
         }
 

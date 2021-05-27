@@ -15,6 +15,10 @@ namespace LearningCsharp_202021.Basics
             Sachin.Salary = 400000;
 
             Sachin.CalculateSalary();
+
+            Employee Gaurav;
+
+            Gaurav = new Employee(23764, 7234679);
         }
     }
 }
