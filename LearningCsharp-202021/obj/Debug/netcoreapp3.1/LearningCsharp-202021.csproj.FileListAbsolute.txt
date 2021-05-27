@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\bin\Debug\netcoreapp3.1\LearningCsharp-202021.exe
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\bin\Debug\netcoreapp3.1\LearningCsharp-202021.deps.json
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\bin\Debug\netcoreapp3.1\LearningCsharp-202021.runtimeconfig.json
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\bin\Debug\netcoreapp3.1\LearningCsharp-202021.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\bin\Debug\netcoreapp3.1\LearningCsharp-202021.dll
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\bin\Debug\netcoreapp3.1\LearningCsharp-202021.pdb
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\obj\Debug\netcoreapp3.1\LearningCsharp-202021.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\obj\Debug\netcoreapp3.1\LearningCsharp-202021.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\obj\Debug\netcoreapp3.1\LearningCsharp-202021.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\obj\Debug\netcoreapp3.1\LearningCsharp-202021.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\obj\Debug\netcoreapp3.1\LearningCsharp-202021.dll
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\obj\Debug\netcoreapp3.1\LearningCsharp-202021.pdb
+C:\Users\Admin\source\repos\LearningCsharp-202021\LearningCsharp-202021\obj\Debug\netcoreapp3.1\LearningCsharp-202021.genruntimeconfig.cache
