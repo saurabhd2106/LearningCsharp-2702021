@@ -20,7 +20,7 @@ namespace LearningCsharp_202021.Basics
 
             Employee Anil = new Employee();
 
-            Anil.Salary = 800000;
+            
 
             Anil.Bonus= 60000;
 
