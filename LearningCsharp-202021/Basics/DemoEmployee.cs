@@ -19,10 +19,10 @@ namespace LearningCsharp_202021.Basics
             Saurabh.CalculateSalary();
 
             Employee Anil = new Employee();
+            Anil.Salary = 8000;
+            Anil.Bonus = 90000;
 
-            int anilSalary =   Anil.CalculateSalary1();
-
-            Console.WriteLine($"Anil's Salary - {anilSalary}" );
+            Anil.CalculateSalary();
 
             Employee Pradeep = new Employee();
 
