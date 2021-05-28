@@ -57,6 +57,7 @@ namespace LearningCsharp_202021.Basics
             Console.WriteLine($"Total Salary {totalSalary}");
         }
 
+
         public int CalculateSalary1()
         {
             int totalSalary;
